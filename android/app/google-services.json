@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068416270694",
+    "project_id": "rajya-laxman-foundation",
+    "storage_bucket": "rajya-laxman-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068416270694:android:1b018f9408725aa9a888a7",
+        "android_client_info": {
+          "package_name": "org.laxmanfoundation.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068416270694-m6mbupdusfbp5raktg0klpinvd0guu72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY-VLuq2RLaDoV_PaAxwcDWePFujHzC38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068416270694-m6mbupdusfbp5raktg0klpinvd0guu72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
